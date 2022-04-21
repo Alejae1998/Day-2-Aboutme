@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 // import functions
 
 // grab DOM elements
@@ -10,6 +11,15 @@ button.onclick = function() {
         list.style.display = 'block';
     }
 };
+const button2 = document.getElementById('show-animal');
+const animal = document.getElementById('animal');
+button2.onclick = function() {
+    if (animal.style.display !== 'none') {
+        animal.style.display = 'none';
+    } else {
+        animal.style.display = 'block';
+    }
+};        
 // set event listeners
 // get user input
 // use user input to update state
