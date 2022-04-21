@@ -8,6 +8,13 @@ If you work on more than one feature at a time, you are guaranteed to multiply y
 
 1. **Make a drawing of your app. Simple "wireframes"*
 1. **Once you have a drawing, name the HTML elements you'll need to realize your vision**
+2. follow the instructions from CANVAS
+3. drawing my app
+4. planning the information that a I want to introduce
+5. adding a UL element
+6. add buttons 
+7. add command to js
+8. commit and push all the changes
 1. **For each HTML element ask: Why do I need this?**
 1. **Once we know _why_ we need each element, think about how to implement the "Why" as a "How"**
 1. **Find all the 'events' (user clicks, form submit, on load etc) in your app. Ask one by one, "What happens when" for each of these events. Does any state change?**
